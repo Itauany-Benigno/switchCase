@@ -1,0 +1,43 @@
+body{
+	background-image: url(https://www.paho.org/sites/default/files/styles/max_1500x1500/public/2021-05/covid-19-variants.jpg?itok=szJH1mCw);
+     background-repeat: no-repeat;
+     background-size: cover;
+                  
+}		
+.filha{
+	font-size: 25px;
+	background-color: skyblue;
+     height: 50px;
+     width: 500px;
+     margin-top: 10px;
+     border-radius: 20px;
+     border: 2px solid black;
+}
+
+.filha:hover{
+     height: 60px;
+     transition: 500ms;
+
+}
+
+.itauany{
+     display: none;
+}
+.any{
+      height: 40px;
+     width: 750px;
+     position: relative;
+     display: flex;
+     justify-content: center;
+     margin: 5px auto;
+     align-items: center;
+     border-radius: 20px;
+     border: 2px solid black;
+     display: flex;
+     font-size: 20px;
+     background-color: gray;
+     position: relative;
+     justify-content: center;
+     align-items: center;
+     margin: 10px auto;
+}
